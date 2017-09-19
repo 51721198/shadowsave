@@ -1,0 +1,2 @@
+# shadowsave
+shadowsocksr
